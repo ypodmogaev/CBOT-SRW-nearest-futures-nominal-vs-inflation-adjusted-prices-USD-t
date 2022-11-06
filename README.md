@@ -1,1 +1,1 @@
-# CBOT-SRW-nearest-futures-nominal-vs-inflation-adjusted-prices-USD-t
+# SRW_nominal_vs_inflation_adjusted_prices_USD_t
